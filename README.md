@@ -54,6 +54,7 @@
 | 10-1주차(2025.04.07) | 데이터베이스 락(Locking), DTO, DAO, VO, Entity | 이소원, 신예지 |
 | 10-2주차(2025.04.10) | 쿠키, 세션, 토큰 | 박상윤 |
 | 11-1주차(2025.04.14) | 시스템 콜(System Call), AOP | 김수훈, 변하영 |
+| 12-1주차(2025.04.21) | DB Connection Pool, Ioc와 DI | 이소원, 신예지 |
 
 ## 📌 Convention
 ### File Name
