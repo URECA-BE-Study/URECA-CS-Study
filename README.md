@@ -27,7 +27,7 @@
 | 5 | 페이지 교체 알고리즘 | SQL vs NoSQL | DNS |  | DTO, DAO, VO, Entity |
 | 6 | 인터럽트(Interrupt) | 데이터베이스 락(Locking) | 로드 밸런싱(Load Balancing) |  | AOP |
 | 7 | 시스템 콜(System Call) | DB Connection Pool | 쿠키, 세션, 토큰 |  | Ioc와 DI |
-| 8 | 동기화(뮤텍스 & 세마포어 & 모니터) | Redis | REST API & RESTful |  |  |
+| 8 | 동기화(뮤텍스 & 세마포어 & 모니터) | Redis | REST API & RESTful |  | @Transactional |
 | 9 | 데드락(Deadlock) | XSS & CSRF | SOP & CORS |  |  |
 | 10 | IPC(Inter Process Communication) |  | 프록시 서버와 VPN |  |  |
 
@@ -55,6 +55,7 @@
 | 10-2주차(2025.04.10) | 쿠키, 세션, 토큰 | 박상윤 |
 | 11-1주차(2025.04.14) | 시스템 콜(System Call), AOP | 김수훈, 변하영 |
 | 12-1주차(2025.04.21) | DB Connection Pool, Ioc와 DI | 이소원, 신예지 |
+| 12-2주차(2025.04.24) | 동기화(뮤텍스 & 세마포어 & 모니터) | 박상윤 |
 
 ## 📌 Convention
 ### File Name
