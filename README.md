@@ -58,7 +58,7 @@
 | 12-2주차(2025.04.24) | 동기화(뮤텍스 & 세마포어 & 모니터) | 박상윤 |
 | 13-1주차(2025.05.01) | @Transactional | 김수훈 |
 | 14-1주차(2025.05.08) | REST API, Hibernate, JPA, Spring Data JPA | 이소원, 변하영 |
-
+| 15-1주차(2025.05.12) | Redis | 김수훈 |
 
 ## 📌 Convention
 ### File Name
