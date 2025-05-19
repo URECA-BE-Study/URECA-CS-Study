@@ -28,8 +28,8 @@
 | 6 | 인터럽트(Interrupt) | 데이터베이스 락(Locking) | 로드 밸런싱(Load Balancing) |  | AOP |
 | 7 | 시스템 콜(System Call) | DB Connection Pool | 쿠키, 세션, 토큰 |  | Ioc와 DI |
 | 8 | 동기화(뮤텍스 & 세마포어 & 모니터) | Redis | REST API |  | @Transactional |
-| 9 | 데드락(Deadlock) | XSS & CSRF | SOP & CORS |  | Hibernate, JPA, Spring Data JPA |
-| 10 | IPC(Inter Process Communication) |  | 프록시 서버와 VPN |  |  |
+| 9 | 데드락(Deadlock) |  | SOP & CORS, XSS & CSRF |  | Hibernate, JPA, Spring Data JPA |
+| 10 | IPC(Inter Process Communication) |  |  |  | N+1 Problem |
 
 ## ✅ 진행 상황
 | 주차(날짜) | 학습 주제 | 작성자 |
@@ -60,6 +60,8 @@
 | 14-1주차(2025.05.08) | REST API, Hibernate, JPA, Spring Data JPA | 이소원, 변하영 |
 | 15-1주차(2025.05.12) | Redis | 김수훈 |
 | 15-2주차(2025.05.15) | 데드락(Deadlock) | 신예지 |
+| 16-1주차(2025.05.19) | N+1 Problem | 박상윤 |
+
 
 ## 📌 Convention
 ### File Name
