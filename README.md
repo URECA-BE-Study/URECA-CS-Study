@@ -30,6 +30,7 @@
 | 8 | 동기화(뮤텍스 & 세마포어 & 모니터) | Redis | REST API |  | @Transactional |
 | 9 | 데드락(Deadlock) |  | SOP & CORS, XSS & CSRF |  | Hibernate, JPA, Spring Data JPA |
 | 10 | IPC(Inter Process Communication) |  |  |  | N+1 Problem |
+| 11 |  |  |  |  | 영속성 컨텍스트, 디자인 패턴 |
 
 ## ✅ 진행 상황
 | 주차(날짜) | 학습 주제 | 작성자 |
@@ -61,7 +62,7 @@
 | 15-1주차(2025.05.12) | Redis | 김수훈 |
 | 15-2주차(2025.05.15) | 데드락(Deadlock) | 신예지 |
 | 16-1주차(2025.05.19) | N+1 Problem | 박상윤 |
-
+| 17-1주차(2025.05.26) | SOP & CORS, XSS & CSRF | 이소원 |
 
 ## 📌 Convention
 ### File Name
